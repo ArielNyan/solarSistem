@@ -1,0 +1,14 @@
+{
+  "name": "solarsistem",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "three": "^0.170.0"
+  }
+}

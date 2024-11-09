@@ -1,6 +1,7 @@
 {
   "name": "solarsistem",
   "version": "1.0.0",
+  "source": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
